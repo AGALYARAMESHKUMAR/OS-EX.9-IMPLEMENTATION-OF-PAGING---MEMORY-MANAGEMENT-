@@ -21,7 +21,7 @@ To write a C program to implement Page Replacement technique using FIFO.
 
  9. Print the number of page faults.
 
-     10.Stop the program.
+    10. Stop the program.
 
 # PROGRAM
 ```
